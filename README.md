@@ -4,6 +4,6 @@
 ## TABLA DE CONTENIDO
 
 [1. Límites y derivadas con Python](https://colab.research.google.com/github/josorio398/CALCULO-DIFERENCIAL-CON-PYTHON/blob/main/C%C3%A1lculo_diferencial_con_Python_l%C3%ADmites_y_derivadas_.ipynb)
-[2. Trazado de curvas con Python](https://colab.research.google.com/github/josorio398/CALCULO-DIFERENCIAL-CON-PYTHON/blob/main/C%C3%A1lculo_diferencial_con_Python_l%C3%ADmites_y_derivadas_.ipynb)
+[2. Trazado de curvas con Python](https://colab.research.google.com/github/josorio398/CALCULO-DIFERENCIAL-CON-PYTHON/blob/main/Trazado_de_curvas_con_Python.ipynb)
 
 
